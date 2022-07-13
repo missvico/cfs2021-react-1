@@ -6,6 +6,14 @@ Utilizando Create React App, crear una aplicacion de React basada en Hooks con u
 - Un botón + que aumente el contador
 - Un botón - que disminuya el contador
 
+## Ejercicio 2 - To Do List
+
+Utilizando Create React App, crear una aplicacion de React basada en Hooks con un listado de tareas que contenga los siguientes features:
+- Un input para ingresar nuevas tareas
+- Un botón que nos permite agregar una tarea nueva
+- Una list con las tareas ingresadas
+- Botones en cada elemento de lista para eliminar tareas
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
