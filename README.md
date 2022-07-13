@@ -1,3 +1,11 @@
+# Ejercicios
+## Ejercicio 1 - Contador
+
+Utilizando Create React App, crear una aplicacion de React basada en Hooks con un contador que contenga los siguientes features:
+- Un número que indique por donde esta el contador
+- Un botón + que aumente el contador
+- Un botón - que disminuya el contador
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
