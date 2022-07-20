@@ -1,6 +1,6 @@
 function Button(props){
     return(
-        <button onClick={props.handleClick}> 
+        <button disabled={props.disabled} onClick={props.handleClick}> 
             {props.buttonText}
         </button>
     )

@@ -27,10 +27,11 @@ function Counter(){
     }
 
     return (
-        <section>
+        <section id="counter">
+            <h1>Counter</h1>
             <Button buttonText={"+"} handleClick={handleAdd}/>
             <Number number={count}/>
-            <Button buttonText={"-"} handleClick={handleSubstract}/>
+            <Button buttonText={"-"} disabled={count <=0 } handleClick={handleSubstract}/>
         </section>
     )
 };
