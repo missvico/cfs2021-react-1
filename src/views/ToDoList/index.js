@@ -18,7 +18,6 @@ function ToDoList(){
         setTasks(tasksCopy)
 
         setCurrTask("")
-
         // setCurrTask([...tasks, currTask])
 
     }
